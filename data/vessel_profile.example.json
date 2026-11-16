@@ -1,0 +1,7 @@
+{
+    "name": "Example Vessel",
+    "length": 10.0,
+    "keel": "Fin",
+    "draft": 1.5,
+    "chain": 40.0
+}
